@@ -1,0 +1,6 @@
+[project]
+name = "voidcli"
+version = "0.1.0"
+
+[project.scripts]
+voidcli = "voidcli.cli:main"
